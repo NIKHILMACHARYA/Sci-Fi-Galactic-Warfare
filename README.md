@@ -1,6 +1,7 @@
 # Sci-Fi-Galactic-Warfare
 # PyGame
-<img width="800" height="594" alt="image" src="https://github.com/user-attachments/assets/0c84b731-5d07-4b4e-8674-fa3857d0ef10" />
+<img width="1000" height="743" alt="image" src="https://github.com/user-attachments/assets/b08d8f86-557f-4458-86af-da9f7c27940a" />
+
 
 Developed a sky 🌠 shooting game using python...
 
